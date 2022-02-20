@@ -10,6 +10,7 @@ The current sketch is a PoC (Proof of Concept), still have many things to fix:
  - Fix AAS sensors
  - Fix CVM / Speed sign issue
  - Fix Cruise control
+ - Fix Climate control
 
 ### Real life examples
 > ![IVI on 208](https://i.imgur.com/Rn7CdSc.jpg)
